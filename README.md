@@ -1,4 +1,4 @@
-# Modellbildung zur Vorhersage von Nachweiswahrscheinlichkeiten und Vorkommen der Wasseramsel
+# Vorhersage von Nachweiswahrscheinlichkeiten und Vorkommen der Wasseramsel anhand mathematischer Modelle
 
 Maturitätsarbeit 2022
 
